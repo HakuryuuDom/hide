@@ -1,7 +1,7 @@
 'use strict'
 
 let DefaultSettings = {
-	players = []
+	players: []
 }
 
 module.exports = function MigrateSettings(from_ver, to_ver, settings) {

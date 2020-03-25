@@ -2,7 +2,7 @@
 	"files": {
 		"index.js": "3770acf6f85fc7ba2aa311f4216aa65377684744545feda8ed520335f7f976f8",
 		"module.json": "89aa2cc0731d4b6b5b842e3f0d72c3ae315bf4b73b59d0c207e07c93f1e59d11",
-		"setting_migration.js": "50b0802e09bd9e000ab285719a8d587a2340aae99c6b30d664bd776ae759dee7"
+		"setting_migration.js": "f3f86a844806e7bec89c310b50b5df5c04dc142ec00c2a673abea2c7c48e7801"
 	},
 	"defs": {
 		"S_SPAWN_USER": 15
