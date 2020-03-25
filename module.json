@@ -1,0 +1,14 @@
+{
+	"disableAutoUpdate": false,
+	"name": "hide",
+	"author": "HakuryuuDom",
+	"description": "Simple hide players",
+	"version": "1.0",
+	"options": {
+		"niceName": "Hide",
+		"settingsVersion": 1,
+		"settingsFile": "config.json",
+		"settingsMigrator": "setting_migration.js"
+	},
+    "servers": ["https://raw.githubusercontent.com/HakuryuuDom/hide/master/"]
+}
